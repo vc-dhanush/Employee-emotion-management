@@ -1,0 +1,10 @@
+streamlit
+transformers
+torch
+torchvision
+opencv-python
+fer
+librosa
+soundfile
+numpy
+pandas
